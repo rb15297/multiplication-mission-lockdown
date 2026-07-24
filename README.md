@@ -1,5 +1,5 @@
-# Multiplication Mission Lockdown
+# Multiplication Mission Lockdown — Student Site
 
-Student-facing escape room site (3rd grade math). Deployed for classroom use via GitHub Pages.
+Self-paced digital escape room for students. Hosted on GitHub Pages.
 
-**Do not** use this repo for teacher materials — student site only.
+Teacher guides, answer keys, and printable PDFs are **not** included here.
